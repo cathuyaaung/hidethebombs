@@ -10,7 +10,7 @@ import UIKit
 
 class ViewController: UIViewController {
 
-    
+    // Commit
     @IBOutlet weak var blueBomb: UIImageView!
     @IBOutlet weak var RedBomb: UIImageView!
     
